@@ -1,1 +1,11 @@
-
+{
+  "ID": "00000000000001",
+  "TITLE": "Insert title",
+  "STEP TO REPRODUCE": "Insert steps",
+  "ACTUAL RESULT": "Indicate actual result",
+  "EXPECTED RESULT": "Indicate expected result",
+  "SEVERITY": "Choose severity",
+  "PRIORITY": "Choose priority",
+  "AUTHOR": "Check yourself"
+  
+}
